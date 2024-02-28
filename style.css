@@ -19,6 +19,7 @@ body{
 
 .caixa1{ 
     background-color: #ffb3b3;
+    border: 1px solid #ff7575;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -29,6 +30,7 @@ body{
 }
 .caixa2{ 
     background-color: #afffaf;
+    border: 1px solid #72ff72;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -39,6 +41,7 @@ body{
 }
 .caixa3{ 
     background-color: #c5c5ff;
+    border: 1px solid #8484ff;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -49,6 +52,7 @@ body{
 }
 .caixa4{ 
     background-color: #ffffb5;
+    border: 1px solid #ffff74;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -59,6 +63,7 @@ body{
 }
 .caixa5{ 
     background-color: #ffc3ff;
+    border: 1px solid #ff77ff;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -69,6 +74,7 @@ body{
 }
 .caixa6{ 
     background-color: #bbffff;
+    border: 1px solid #74ffff;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -79,6 +85,7 @@ body{
 }
 .caixa7{ 
     background-color: #ffb3b3;
+    border: 1px solid #ff7979;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -89,6 +96,7 @@ body{
 }
 .caixa8{ 
     background-color: #bbffbb;
+    border: 1px solid #72ff72;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -99,6 +107,7 @@ body{
 }
 .caixa9{ 
     background-color: #b9b9ff;
+    border: 1px solid #7979ff;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -108,7 +117,8 @@ body{
     scrollbar-width: thin;
 }
 .caixa10{ 
-    background-color: #ffffa8; 
+    background-color: #ffffa8;
+    border: 1px solid #ffff73;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -118,7 +128,8 @@ body{
     scrollbar-width: thin;
 }
 .caixa11{ 
-    background-color: #ffacff; 
+    background-color: #ffacff;
+    border: 1px solid #ff6dff;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -128,7 +139,8 @@ body{
     scrollbar-width: thin;
 }
 .caixa12{ 
-    background-color: #baffff; 
+    background-color: #baffff;
+    border: 1px solid #6effff;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -138,7 +150,8 @@ body{
     scrollbar-width: thin;
 }
 .caixa13{ 
-    background-color: #ffc1c1; 
+    background-color: #ffc1c1;
+    border: 1px solid #ff7d7d;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;

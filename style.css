@@ -1,0 +1,187 @@
+body{
+    padding: 50px;
+}
+
+.linha{
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.caixa{
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    height: 150px;
+    min-height: 150px;
+    max-height: 150px;
+}
+
+.caixa1{ 
+    background-color: #ffb3b3;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa2{ 
+    background-color: #afffaf;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa3{ 
+    background-color: #c5c5ff;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa4{ 
+    background-color: #ffffb5;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa5{ 
+    background-color: #ffc3ff;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa6{ 
+    background-color: #bbffff;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa7{ 
+    background-color: #ffb3b3;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa8{ 
+    background-color: #bbffbb;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa9{ 
+    background-color: #b9b9ff;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa10{ 
+    background-color: #ffffa8; 
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa11{ 
+    background-color: #ffacff; 
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa12{ 
+    background-color: #baffff; 
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+.caixa13{ 
+    background-color: #ffc1c1; 
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+
+table{
+    width: 100%;
+    border-radius: 12px;
+    min-height: 150px;
+    max-height: 150px;
+}
+
+th{
+    background-color: #f2f2f2;
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 5px;
+    border-radius: 12px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    height: 20px;
+}
+
+td{
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+td:last-child{
+    border-bottom: none;
+}
+
+.linha:after{
+    content: "";
+    display: table;
+    clear: both;
+}

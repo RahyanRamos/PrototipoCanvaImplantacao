@@ -228,8 +228,8 @@ body{
 }
 
 .caixa11{ 
-    background-color: #ffacff;
-    border: 1px solid #ff6dff;
+    background-color: #e2ffb6;
+    border: 1px solid #99ff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -238,6 +238,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa11 th{
+    background-color: #d8ff9d;
+    border: 1px solid #baff53;
+}
+
+.caixa11 td{
+    border-bottom: 1px solid #baff53;
+}
+
 .caixa12{ 
     background-color: #baffff;
     border: 1px solid #6effff;

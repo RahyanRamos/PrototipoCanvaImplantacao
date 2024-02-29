@@ -12,17 +12,17 @@ body{
     margin-right: 15px;
     margin-bottom: 15px;
     border-radius: 12px;
-    height: 150px;
-    min-height: 150px;
-    max-height: 150px;
+    height: 170px;
+    min-height: 170px;
+    max-height: 170px;
 }
 
 .caixa1{ 
     background-color: #e2ffb6;
     border: 1px solid #99ff00;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -44,8 +44,8 @@ body{
     background-color: #ffffac;
     border: 1px solid #ffff00;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -67,8 +67,8 @@ body{
     background-color: #ffe89c;
     border: 1px solid #ffc400;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -90,8 +90,8 @@ body{
     background-color: #ffd8a4;
     border: 1px solid #ff9100;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -113,8 +113,8 @@ body{
     background-color: #ffc6d3;
     border: 1px solid #ff003d;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -136,8 +136,8 @@ body{
     background-color: #bfffb2;
     border: 1px solid #2bff00;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -159,8 +159,8 @@ body{
     background-color: #f3ffb1;
     border: 1px solid #d9ff00;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -182,8 +182,8 @@ body{
     background-color: #fff2a9;
     border: 1px solid #ffd900;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 300px;
     max-width: 300px;
     overflow: auto;
@@ -205,8 +205,8 @@ body{
     background-color: #ffe5b6;
     border: 1px solid #ffa600;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 235px;
     max-width: 235px;
     overflow: auto;
@@ -228,8 +228,8 @@ body{
     background-color: #ffb2d6;
     border: 1px solid #ff0077;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 235px;
     max-width: 235px;
     overflow: auto;
@@ -251,8 +251,8 @@ body{
     background-color: #c5ffae;
     border: 1px solid #48ff00;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 235px;
     max-width: 235px;
     overflow: auto;
@@ -274,8 +274,8 @@ body{
     background-color: #f1ffb4;
     border: 1px solid #d0ff00;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 235px;
     max-width: 235px;
     overflow: auto;
@@ -297,8 +297,8 @@ body{
     background-color: #ffdfb5;
     border: 1px solid #ff9100;
     border-radius: 12px;
-    min-height: 150px;
-    max-height: 150px;
+    min-height: 170px;
+    max-height: 170px;
     min-width: 235px;
     max-width: 235px;
     overflow: auto;

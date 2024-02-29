@@ -18,8 +18,8 @@ body{
 }
 
 .caixa1{ 
-    background-color: #ffb3b3;
-    border: 1px solid #ff7575;
+    background-color: #e2ffb6;
+    border: 1px solid #ccf390;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -30,12 +30,12 @@ body{
 }
 
 .caixa1 th{
-    background-color: #ffa2a2;
-    border: 1px solid #ff8c8c;
+    background-color: #d8ff9d;
+    border: 1px solid #ceff84;
 }
 
 .caixa1 td{
-    border-bottom: 1px solid #ff8c8c;
+    border-bottom: 1px solid #ceff84;
 }
 
 .caixa2{ 

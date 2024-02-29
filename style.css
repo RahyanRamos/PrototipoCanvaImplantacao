@@ -40,7 +40,7 @@ body{
 
 .caixa2{ 
     background-color: #ffffac;
-    border: 1px solid #e0e05a;
+    border: 1px solid #ffff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -51,17 +51,17 @@ body{
 }
 
 .caixa2 th{
-    background-color: #ffff94;
-    border: 1px solid #ffff6c;
+    background-color: #ffff88;
+    border: 1px solid #ffff45;
 }
 
 .caixa2 td{
-    border-bottom: 1px solid #ffff6c;
+    border-bottom: 1px solid #ffff45;
 }
 
 .caixa3{ 
     background-color: #ffe89c;
-    border: 1px solid #f7c41f;
+    border: 1px solid #ffc400;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -73,16 +73,16 @@ body{
 
 .caixa3 th{
     background-color: #ffe285;
-    border: 1px solid #ffdb63;
+    border: 1px solid #ffd23d;
 }
 
 .caixa3 td{
-    border-bottom: 1px solid #ffdb63;
+    border-bottom: 1px solid #ffd23d;
 }
 
 .caixa4{ 
     background-color: #ffd8a4;
-    border: 1px solid #fc930a;
+    border: 1px solid #ff9100;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -94,11 +94,11 @@ body{
 
 .caixa4 th{
     background-color: #ffc579;
-    border: 1px solid #ffb14a;
+    border: 1px solid #ffaa3b;
 }
 
 .caixa4 td{
-    border-bottom: 1px solid #ffb14a;
+    border-bottom: 1px solid #ffaa3b;
 }
 
 .caixa5{

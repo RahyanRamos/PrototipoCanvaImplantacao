@@ -165,8 +165,8 @@ body{
 }
 
 .caixa8{ 
-    background-color: #bbffbb;
-    border: 1px solid #72ff72;
+    background-color: #ffe89c;
+    border: 1px solid #ffc400;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -175,6 +175,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa8 th{
+    background-color: #ffe285;
+    border: 1px solid #ffd23d;
+}
+
+.caixa8 td{
+    border-bottom: 1px solid #ffd23d;
+}
+
 .caixa9{ 
     background-color: #b9b9ff;
     border: 1px solid #7979ff;

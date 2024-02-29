@@ -49,6 +49,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa2 th{
+    background-color: #92ff92;
+    border: 1px solid #7bff7b;
+}
+
+.caixa2 td{
+    border-bottom: 1px solid #7bff7b;
+}
+
 .caixa3{ 
     background-color: #c5c5ff;
     border: 1px solid #8484ff;

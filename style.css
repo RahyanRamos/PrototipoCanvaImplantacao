@@ -186,8 +186,8 @@ body{
 }
 
 .caixa9{ 
-    background-color: #b9b9ff;
-    border: 1px solid #7979ff;
+    background-color: #ffd8a4;
+    border: 1px solid #ff9100;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -196,6 +196,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa9 th{
+    background-color: #ffc579;
+    border: 1px solid #ffaa3b;
+}
+
+.caixa9 td{
+    border-bottom: 1px solid #ffaa3b;
+}
+
 .caixa10{ 
     background-color: #ffffa8;
     border: 1px solid #ffff73;

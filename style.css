@@ -28,6 +28,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa1 th{
+    background-color: #ffa2a2;
+    border: 1px solid #ff8c8c;
+}
+
+.caixa1 td{
+    border-bottom: 1px solid #ff8c8c;
+}
+
 .caixa2{ 
     background-color: #afffaf;
     border: 1px solid #72ff72;
@@ -166,11 +176,10 @@ table{
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
+    padding: 0;
 }
 
 th{
-    background-color: #f2f2f2;
-    border: 1px solid #dddddd;
     text-align: center;
     padding: 5px;
     border-radius: 12px;
@@ -181,7 +190,7 @@ th{
 }
 
 td{
-    border-bottom: 1px solid #dddddd;
+    /* border-bottom: 1px solid #dddddd; */
     text-align: left;
     padding: 5px;
     display: flex;

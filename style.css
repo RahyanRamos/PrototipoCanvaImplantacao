@@ -101,9 +101,9 @@ body{
     border-bottom: 1px solid #ffb14a;
 }
 
-.caixa5{ 
-    background-color: #ffc3ff;
-    border: 1px solid #ff77ff;
+.caixa5{
+    background-color: #ffa9bd;
+    border: 1px solid #ff003d;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -112,6 +112,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa5 th{
+    background-color: #ff85a1;
+    border: 1px solid #ff5980;
+}
+
+.caixa5 td{
+    border-bottom: 1px solid #ff5980;
+}
+
 .caixa6{ 
     background-color: #bbffff;
     border: 1px solid #74ffff;

@@ -91,6 +91,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa4 th{
+    background-color: #ffff98;
+    border: 1px solid #ffff82;
+}
+
+.caixa4 td{
+    border-bottom: 1px solid #ffff82;
+}
+
 .caixa5{ 
     background-color: #ffc3ff;
     border: 1px solid #ff77ff;

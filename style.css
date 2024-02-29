@@ -270,8 +270,8 @@ body{
 }
 
 .caixa13{ 
-    background-color: #ffc1c1;
-    border: 1px solid #ff7d7d;
+    background-color: #ffe89c;
+    border: 1px solid #ffc400;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -279,6 +279,15 @@ body{
     overflow-x: hidden;
     overflow-y: auto;
     scrollbar-width: thin;
+}
+
+.caixa13 th{
+    background-color: #ffe285;
+    border: 1px solid #ffd23d;
+}
+
+.caixa13 td{
+    border-bottom: 1px solid #ffd23d;
 }
 
 table{

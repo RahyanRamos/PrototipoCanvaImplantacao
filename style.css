@@ -19,7 +19,7 @@ body{
 
 .caixa1{ 
     background-color: #e2ffb6;
-    border: 1px solid #ccf390;
+    border: 1px solid #99ff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -31,11 +31,11 @@ body{
 
 .caixa1 th{
     background-color: #d8ff9d;
-    border: 1px solid #ceff84;
+    border: 1px solid #baff53;
 }
 
 .caixa1 td{
-    border-bottom: 1px solid #ceff84;
+    border-bottom: 1px solid #baff53;
 }
 
 .caixa2{ 
@@ -123,8 +123,8 @@ body{
 }
 
 .caixa6{ 
-    background-color: #bbffff;
-    border: 1px solid #74ffff;
+    background-color: #e2ffb6;
+    border: 1px solid #ccf390;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -133,6 +133,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa6 th{
+    background-color: #d8ff9d;
+    border: 1px solid #baff53;
+}
+
+.caixa6 td{
+    border-bottom: 1px solid #baff53;
+}
+
 .caixa7{ 
     background-color: #ffb3b3;
     border: 1px solid #ff7979;

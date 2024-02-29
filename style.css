@@ -133,8 +133,8 @@ body{
 }
 
 .caixa6{ 
-    background-color: #e2ffb6;
-    border: 1px solid #99ff00;
+    background-color: #bfffb2;
+    border: 1px solid #2bff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -147,17 +147,17 @@ body{
 }
 
 .caixa6 th{
-    background-color: #d8ff9d;
-    border: 1px solid #baff53;
+    background-color: #9dff89;
+    border: 1px solid #65ff46;
 }
 
 .caixa6 td{
-    border-bottom: 1px solid #baff53;
+    border-bottom: 1px solid #65ff46;
 }
 
 .caixa7{ 
-    background-color: #ffffac;
-    border: 1px solid #ffff00;
+    background-color: #f3ffb1;
+    border: 1px solid #d9ff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -170,17 +170,17 @@ body{
 }
 
 .caixa7 th{
-    background-color: #ffff88;
-    border: 1px solid #ffff45;
+    background-color: #ecff81;
+    border: 1px solid #e2ff41;
 }
 
 .caixa7 td{
-    border-bottom: 1px solid #ffff45;
+    border-bottom: 1px solid #e2ff41;
 }
 
 .caixa8{ 
-    background-color: #ffe89c;
-    border: 1px solid #ffc400;
+    background-color: #fff2a9;
+    border: 1px solid #ffd900;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -193,17 +193,17 @@ body{
 }
 
 .caixa8 th{
-    background-color: #ffe285;
-    border: 1px solid #ffd23d;
+    background-color: #ffeb79;
+    border: 1px solid #ffe137;
 }
 
 .caixa8 td{
-    border-bottom: 1px solid #ffd23d;
+    border-bottom: 1px solid #ffe137;
 }
 
 .caixa9{ 
-    background-color: #ffd8a4;
-    border: 1px solid #ff9100;
+    background-color: #ffe5b6;
+    border: 1px solid #ffa600;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -216,17 +216,17 @@ body{
 }
 
 .caixa9 th{
-    background-color: #ffc579;
-    border: 1px solid #ffaa3b;
+    background-color: #ffd17a;
+    border: 1px solid #ffba39;
 }
 
 .caixa9 td{
-    border-bottom: 1px solid #ffaa3b;
+    border-bottom: 1px solid #ffba39;
 }
 
 .caixa10{ 
-    background-color: #ffc6d3;
-    border: 1px solid #ff003d;
+    background-color: #ffb2d6;
+    border: 1px solid #ff0077;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -239,17 +239,17 @@ body{
 }
 
 .caixa10 th{
-    background-color: #ff9fb6;
-    border: 1px solid #ff6c8e;
+    background-color: #ff80bb;
+    border: 1px solid #ff3895;
 }
 
 .caixa10 td{
-    border-bottom: 1px solid #ff6c8e;
+    border-bottom: 1px solid #ff3895;
 }
 
 .caixa11{ 
-    background-color: #e2ffb6;
-    border: 1px solid #99ff00;
+    background-color: #c5ffae;
+    border: 1px solid #48ff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -262,17 +262,17 @@ body{
 }
 
 .caixa11 th{
-    background-color: #d8ff9d;
-    border: 1px solid #baff53;
+    background-color: #a1ff7c;
+    border: 1px solid #6cff32;
 }
 
 .caixa11 td{
-    border-bottom: 1px solid #baff53;
+    border-bottom: 1px solid #6cff32;
 }
 
 .caixa12{ 
-    background-color: #ffffac;
-    border: 1px solid #ffff00;
+    background-color: #f1ffb4;
+    border: 1px solid #d0ff00;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -285,17 +285,17 @@ body{
 }
 
 .caixa12 th{
-    background-color: #ffff88;
-    border: 1px solid #ffff45;
+    background-color: #e6ff78;
+    border: 1px solid #daff35;
 }
 
 .caixa12 td{
-    border-bottom: 1px solid #ffff45;
+    border-bottom: 1px solid #daff35;
 }
 
 .caixa13{ 
-    background-color: #ffe89c;
-    border: 1px solid #ffc400;
+    background-color: #ffdfb5;
+    border: 1px solid #ff9100;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -308,12 +308,12 @@ body{
 }
 
 .caixa13 th{
-    background-color: #ffe285;
-    border: 1px solid #ffd23d;
+    background-color: #ffc87f;
+    border: 1px solid #ffab3d;
 }
 
 .caixa13 td{
-    border-bottom: 1px solid #ffd23d;
+    border-bottom: 1px solid #ffab3d;
 }
 
 table{

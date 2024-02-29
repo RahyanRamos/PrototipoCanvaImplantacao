@@ -102,7 +102,7 @@ body{
 }
 
 .caixa5{
-    background-color: #ffa9bd;
+    background-color: #ffc6d3;
     border: 1px solid #ff003d;
     border-radius: 12px;
     min-height: 150px;
@@ -114,12 +114,12 @@ body{
 }
 
 .caixa5 th{
-    background-color: #ff85a1;
-    border: 1px solid #ff5980;
+    background-color: #ff9fb6;
+    border: 1px solid #ff6c8e;
 }
 
 .caixa5 td{
-    border-bottom: 1px solid #ff5980;
+    border-bottom: 1px solid #ff6c8e;
 }
 
 .caixa6{ 
@@ -207,8 +207,8 @@ body{
 }
 
 .caixa10{ 
-    background-color: #ffffa8;
-    border: 1px solid #ffff73;
+    background-color: #ffc6d3;
+    border: 1px solid #ff003d;
     border-radius: 12px;
     min-height: 150px;
     max-height: 150px;
@@ -217,6 +217,16 @@ body{
     overflow-y: auto;
     scrollbar-width: thin;
 }
+
+.caixa10 th{
+    background-color: #ff9fb6;
+    border: 1px solid #ff6c8e;
+}
+
+.caixa10 td{
+    border-bottom: 1px solid #ff6c8e;
+}
+
 .caixa11{ 
     background-color: #ffacff;
     border: 1px solid #ff6dff;

@@ -50,7 +50,7 @@ body{
     box-shadow: 0 0 20px rgba(153, 255, 0, 1);
 }
 
-.caixa1::-webkit-scrollbar {
+.caixa1::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -85,7 +85,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 255, 0, 1);
 }
 
-.caixa2::-webkit-scrollbar {
+.caixa2::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -120,7 +120,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 196, 0, 1);
 }
 
-.caixa3::-webkit-scrollbar {
+.caixa3::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -155,7 +155,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 145, 0, 1);
 }
 
-.caixa4::-webkit-scrollbar {
+.caixa4::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -190,7 +190,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 38, 0, 1);
 }
 
-.caixa5::-webkit-scrollbar {
+.caixa5::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -225,7 +225,7 @@ body{
     box-shadow: 0 0 20px rgba(43, 255, 0, 1);
 }
 
-.caixa6::-webkit-scrollbar {
+.caixa6::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -260,7 +260,7 @@ body{
     box-shadow: 0 0 20px rgba(217, 255, 0, 1);
 }
 
-.caixa7::-webkit-scrollbar {
+.caixa7::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -295,7 +295,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 217, 0, 1);
 }
 
-.caixa8::-webkit-scrollbar {
+.caixa8::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -330,7 +330,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 166, 0, 1);
 }
 
-.caixa9::-webkit-scrollbar {
+.caixa9::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -365,7 +365,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 102, 0, 1);
 }
 
-.caixa10::-webkit-scrollbar {
+.caixa10::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -400,7 +400,7 @@ body{
     box-shadow: 0 0 20px rgba(72, 255, 0, 1);
 }
 
-.caixa11::-webkit-scrollbar {
+.caixa11::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -435,7 +435,7 @@ body{
     box-shadow: 0 0 20px rgba(208, 255, 0, 1);
 }
 
-.caixa12::-webkit-scrollbar {
+.caixa12::-webkit-scrollbar{
     width: 5px;
 }
 
@@ -470,7 +470,7 @@ body{
     box-shadow: 0 0 20px rgba(255, 145, 0, 1);
 }
 
-.caixa13::-webkit-scrollbar {
+.caixa13::-webkit-scrollbar{
     width: 5px;
 }
 

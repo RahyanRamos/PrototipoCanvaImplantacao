@@ -32,7 +32,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa1 th{
@@ -48,6 +47,15 @@ body{
     box-shadow: 0 0 20px rgba(153, 255, 0, 1);
 }
 
+.caixa1::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa1::-webkit-scrollbar-thumb{
+    background-color: rgba(153, 255, 0, 0.5);
+    border-radius:12px;
+}
+
 .caixa2{ 
     background-color: #ffffac;
     border: 1px solid #ffff00;
@@ -59,7 +67,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa2 th{
@@ -75,6 +82,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 255, 0, 1);
 }
 
+.caixa2::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa2::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 255, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa3{ 
     background-color: #ffe89c;
     border: 1px solid #ffc400;
@@ -86,7 +102,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa3 th{
@@ -102,6 +117,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 196, 0, 1);
 }
 
+.caixa3::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa3::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 196, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa4{ 
     background-color: #ffd8a4;
     border: 1px solid #ff9100;
@@ -113,7 +137,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa4 th{
@@ -129,6 +152,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 145, 0, 1);
 }
 
+.caixa4::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa4::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 145, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa5{
     background-color: #ffc6d3;
     border: 1px solid #ff003d;
@@ -140,7 +172,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa5 th{
@@ -156,6 +187,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 0, 61, 1);
 }
 
+.caixa5::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa5::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 0, 61, 0.5);
+    border-radius: 12px;
+}
+
 .caixa6{ 
     background-color: #bfffb2;
     border: 1px solid #2bff00;
@@ -167,7 +207,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa6 th{
@@ -183,6 +222,15 @@ body{
     box-shadow: 0 0 20px rgba(43, 255, 0, 1);
 }
 
+.caixa6::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa6::-webkit-scrollbar-thumb{
+    background-color: rgba(43, 255, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa7{ 
     background-color: #f3ffb1;
     border: 1px solid #d9ff00;
@@ -194,7 +242,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa7 th{
@@ -210,6 +257,15 @@ body{
     box-shadow: 0 0 20px rgba(217, 255, 0, 1);
 }
 
+.caixa7::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa7::-webkit-scrollbar-thumb{
+    background-color: rgba(217, 255, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa8{ 
     background-color: #fff2a9;
     border: 1px solid #ffd900;
@@ -221,7 +277,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa8 th{
@@ -237,6 +292,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 217, 0, 1);
 }
 
+.caixa8::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa8::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 217, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa9{ 
     background-color: #ffe5b6;
     border: 1px solid #ffa600;
@@ -248,7 +312,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa9 th{
@@ -264,6 +327,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 166, 0, 1);
 }
 
+.caixa9::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa9::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 166, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa10{ 
     background-color: #ffb2d6;
     border: 1px solid #ff0077;
@@ -275,7 +347,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa10 th{
@@ -291,6 +362,15 @@ body{
     box-shadow: 0 0 20px rgba(255, 0, 119, 1);
 }
 
+.caixa10::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa10::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 0, 119, 0.5);
+    border-radius: 12px;
+}
+
 .caixa11{ 
     background-color: #c5ffae;
     border: 1px solid rgb(72, 255, 0);
@@ -302,7 +382,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa11 th{
@@ -318,6 +397,15 @@ body{
     box-shadow: 0 0 20px rgba(72, 255, 0, 1);
 }
 
+.caixa11::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa11::-webkit-scrollbar-thumb{
+    background-color: rgba(72, 255, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa12{ 
     background-color: #f1ffb4;
     border: 1px solid #d0ff00;
@@ -329,7 +417,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa12 th{
@@ -345,6 +432,15 @@ body{
     box-shadow: 0 0 20px rgba(208, 255, 0, 1);
 }
 
+.caixa12::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa12::-webkit-scrollbar-thumb{
+    background-color: rgba(208, 255, 0, 0.5);
+    border-radius: 12px;
+}
+
 .caixa13{ 
     background-color: #ffdfb5;
     border: 1px solid rgb(255, 145, 0);
@@ -356,7 +452,6 @@ body{
     overflow: auto;
     overflow-x: hidden;
     overflow-y: auto;
-    scrollbar-width: thin;
 }
 
 .caixa13 th{
@@ -370,6 +465,15 @@ body{
 
 .caixa13:hover{
     box-shadow: 0 0 20px rgba(255, 145, 0, 1);
+}
+
+.caixa13::-webkit-scrollbar {
+    width: 5px;
+}
+
+.caixa13::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 145, 0, 0.5);
+    border-radius: 12px;
 }
 
 table{
@@ -391,7 +495,6 @@ th{
 }
 
 td{
-    /* border-bottom: 1px solid #dddddd; */
     text-align: left;
     padding: 5px;
     display: flex;

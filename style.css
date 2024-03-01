@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
 body{
     padding: 50px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .linha{
@@ -162,8 +165,8 @@ body{
 }
 
 .caixa5{
-    background-color: #ffc6d3;
-    border: 1px solid #ff003d;
+    background-color: #ffbbaf;
+    border: 1px solid #ff2600;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -175,16 +178,16 @@ body{
 }
 
 .caixa5 th{
-    background-color: #ff9fb6;
-    border: 1px solid #ff6c8e;
+    background-color: #ff9b89;
+    border: 1px solid #ff6d53;
 }
 
 .caixa5 td{
-    border-bottom: 1px solid #ff6c8e;
+    border-bottom: 1px solid #ff6d53;
 }
 
 .caixa5:hover{
-    box-shadow: 0 0 20px rgba(255, 0, 61, 1);
+    box-shadow: 0 0 20px rgba(255, 38, 0, 1);
 }
 
 .caixa5::-webkit-scrollbar {
@@ -192,7 +195,7 @@ body{
 }
 
 .caixa5::-webkit-scrollbar-thumb{
-    background-color: rgba(255, 0, 61, 0.5);
+    background-color: rgba(255, 38, 0, 0.5);
     border-radius: 12px;
 }
 
@@ -337,8 +340,8 @@ body{
 }
 
 .caixa10{ 
-    background-color: #ffb2d6;
-    border: 1px solid #ff0077;
+    background-color: #ffc59f;
+    border: 1px solid #ff6600;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -350,16 +353,16 @@ body{
 }
 
 .caixa10 th{
-    background-color: #ff80bb;
-    border: 1px solid #ff3895;
+    background-color: #ffae78;
+    border: 1px solid #ff8f44;
 }
 
 .caixa10 td{
-    border-bottom: 1px solid #ff3895;
+    border-bottom: 1px solid #ff8f44;
 }
 
 .caixa10:hover{
-    box-shadow: 0 0 20px rgba(255, 0, 119, 1);
+    box-shadow: 0 0 20px rgba(255, 102, 0, 1);
 }
 
 .caixa10::-webkit-scrollbar {
@@ -367,7 +370,7 @@ body{
 }
 
 .caixa10::-webkit-scrollbar-thumb{
-    background-color: rgba(255, 0, 119, 0.5);
+    background-color: rgba(255, 102, 0, 0.5);
     border-radius: 12px;
 }
 

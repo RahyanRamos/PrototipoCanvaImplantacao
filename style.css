@@ -17,6 +17,10 @@ body{
     max-height: 170px;
 }
 
+.caixa:hover{
+    transform: scale(0.95);
+}
+
 .caixa1{ 
     background-color: #e2ffb6;
     border: 1px solid #99ff00;
@@ -38,6 +42,10 @@ body{
 
 .caixa1 td{
     border-bottom: 1px solid #baff53;
+}
+
+.caixa1:hover{
+    box-shadow: 0 0 20px rgba(153, 255, 0, 1);
 }
 
 .caixa2{ 
@@ -63,6 +71,10 @@ body{
     border-bottom: 1px solid #ffff45;
 }
 
+.caixa2:hover{
+    box-shadow: 0 0 20px rgba(255, 255, 0, 1);
+}
+
 .caixa3{ 
     background-color: #ffe89c;
     border: 1px solid #ffc400;
@@ -84,6 +96,10 @@ body{
 
 .caixa3 td{
     border-bottom: 1px solid #ffd23d;
+}
+
+.caixa3:hover{
+    box-shadow: 0 0 20px rgba(255, 196, 0, 1);
 }
 
 .caixa4{ 
@@ -109,6 +125,10 @@ body{
     border-bottom: 1px solid #ffaa3b;
 }
 
+.caixa4:hover{
+    box-shadow: 0 0 20px rgba(255, 145, 0, 1);
+}
+
 .caixa5{
     background-color: #ffc6d3;
     border: 1px solid #ff003d;
@@ -130,6 +150,10 @@ body{
 
 .caixa5 td{
     border-bottom: 1px solid #ff6c8e;
+}
+
+.caixa5:hover{
+    box-shadow: 0 0 20px rgba(255, 0, 61, 1);
 }
 
 .caixa6{ 
@@ -155,6 +179,10 @@ body{
     border-bottom: 1px solid #65ff46;
 }
 
+.caixa6:hover{
+    box-shadow: 0 0 20px rgba(43, 255, 0, 1);
+}
+
 .caixa7{ 
     background-color: #f3ffb1;
     border: 1px solid #d9ff00;
@@ -176,6 +204,10 @@ body{
 
 .caixa7 td{
     border-bottom: 1px solid #e2ff41;
+}
+
+.caixa7:hover{
+    box-shadow: 0 0 20px rgba(217, 255, 0, 1);
 }
 
 .caixa8{ 
@@ -201,6 +233,10 @@ body{
     border-bottom: 1px solid #ffe137;
 }
 
+.caixa8:hover{
+    box-shadow: 0 0 20px rgba(255, 217, 0, 1);
+}
+
 .caixa9{ 
     background-color: #ffe5b6;
     border: 1px solid #ffa600;
@@ -222,6 +258,10 @@ body{
 
 .caixa9 td{
     border-bottom: 1px solid #ffba39;
+}
+
+.caixa9:hover{
+    box-shadow: 0 0 20px rgba(255, 166, 0, 1);
 }
 
 .caixa10{ 
@@ -247,9 +287,13 @@ body{
     border-bottom: 1px solid #ff3895;
 }
 
+.caixa10:hover{
+    box-shadow: 0 0 20px rgba(255, 0, 119, 1);
+}
+
 .caixa11{ 
     background-color: #c5ffae;
-    border: 1px solid #48ff00;
+    border: 1px solid rgb(72, 255, 0);
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -268,6 +312,10 @@ body{
 
 .caixa11 td{
     border-bottom: 1px solid #6cff32;
+}
+
+.caixa11:hover{
+    box-shadow: 0 0 20px rgba(72, 255, 0, 1);
 }
 
 .caixa12{ 
@@ -293,9 +341,13 @@ body{
     border-bottom: 1px solid #daff35;
 }
 
+.caixa12:hover{
+    box-shadow: 0 0 20px rgba(208, 255, 0, 1);
+}
+
 .caixa13{ 
     background-color: #ffdfb5;
-    border: 1px solid #ff9100;
+    border: 1px solid rgb(255, 145, 0);
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -314,6 +366,10 @@ body{
 
 .caixa13 td{
     border-bottom: 1px solid #ffab3d;
+}
+
+.caixa13:hover{
+    box-shadow: 0 0 20px rgba(255, 145, 0, 1);
 }
 
 table{

@@ -2,7 +2,6 @@
 
 body{
     padding: 50px;
-    font-family: 'Poppins', sans-serif;
 }
 
 .linha{
@@ -18,6 +17,7 @@ body{
     height: 170px;
     min-height: 170px;
     max-height: 170px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .caixaImplant:hover{

@@ -25,8 +25,8 @@ body{
 }
 
 .caixaImplant1{ 
-    background-color: #fff9c1;
-    border: 1px solid #ffe600;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -38,16 +38,16 @@ body{
 }
 
 .caixaImplant1 th{
-    background-color: #fff387;
-    border: 1px solid #ffeb3c;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant1 td{
-    border-bottom: 1px solid #ffeb3c;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant1:hover{
-    box-shadow: 0 0 20px rgba(255, 230, 0, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant1::-webkit-scrollbar{
@@ -55,13 +55,13 @@ body{
 }
 
 .caixaImplant1::-webkit-scrollbar-thumb{
-    background-color: rgba(255, 230, 0, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius:12px;
 }
 
 .caixaImplant2{ 
-    background-color: #d2e4b6;
-    border: 1px solid #81d100;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -73,16 +73,16 @@ body{
 }
 
 .caixaImplant2 th{
-    background-color: #a9cf6b;
-    border: 1px solid #90cc30;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant2 td{
-    border-bottom: 1px solid #90cc30;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant2:hover{
-    box-shadow: 0 0 20px rgba(129, 209, 0, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant2::-webkit-scrollbar{
@@ -90,13 +90,13 @@ body{
 }
 
 .caixaImplant2::-webkit-scrollbar-thumb{
-    background-color: rgba(129, 209, 0, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant3{ 
-    background-color: #e4fce9;
-    border: 1px solid #8eaf95;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -108,16 +108,16 @@ body{
 }
 
 .caixaImplant3 th{
-    background-color: #c1dfc7;
-    border: 1px solid #85b18e;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant3 td{
-    border-bottom: 1px solid #85b18e;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant3:hover{
-    box-shadow: 0 0 20px rgba(142, 175, 149, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant3::-webkit-scrollbar{
@@ -125,13 +125,13 @@ body{
 }
 
 .caixaImplant3::-webkit-scrollbar-thumb{
-    background-color: rgba(142, 175, 149, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant4{ 
-    background-color: #cfbed1;
-    border: 1px solid #a100b3;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -143,16 +143,16 @@ body{
 }
 
 .caixaImplant4 th{
-    background-color: #d38ddb;
-    border: 1px solid #c24acf;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant4 td{
-    border-bottom: 1px solid #c24acf;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant4:hover{
-    box-shadow: 0 0 20px rgba(161, 0, 179, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant4::-webkit-scrollbar{
@@ -160,13 +160,13 @@ body{
 }
 
 .caixaImplant4::-webkit-scrollbar-thumb{
-    background-color: rgba(161, 0, 179, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant5{
-    background-color: #d6bcca;
-    border: 1px solid #a00055;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -178,16 +178,16 @@ body{
 }
 
 .caixaImplant5 th{
-    background-color: #cc7aa6;
-    border: 1px solid #ca428b;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant5 td{
-    border-bottom: 1px solid #ca428b;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant5:hover{
-    box-shadow: 0 0 20px rgba(160, 0, 85, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant5::-webkit-scrollbar{
@@ -195,13 +195,13 @@ body{
 }
 
 .caixaImplant5::-webkit-scrollbar-thumb{
-    background-color: rgba(160, 0, 85, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant6{ 
-    background-color: #e4fce9;
-    border: 1px solid #8eaf95;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -213,16 +213,16 @@ body{
 }
 
 .caixaImplant6 th{
-    background-color: #c1dfc7;
-    border: 1px solid #85b18e;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant6 td{
-    border-bottom: 1px solid #85b18e;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant6:hover{
-    box-shadow: 0 0 20px rgba(142, 175, 149, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant6::-webkit-scrollbar{
@@ -230,13 +230,13 @@ body{
 }
 
 .caixaImplant6::-webkit-scrollbar-thumb{
-    background-color: rgba(142, 175, 149, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant7{ 
-    background-color: #d6bcca;
-    border: 1px solid #a00055;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -248,16 +248,16 @@ body{
 }
 
 .caixaImplant7 th{
-    background-color: #cc7aa6;
-    border: 1px solid #ca428b;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant7 td{
-    border-bottom: 1px solid #ca428b;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant7:hover{
-    box-shadow: 0 0 20px rgba(160, 0, 85, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant7::-webkit-scrollbar{
@@ -265,13 +265,13 @@ body{
 }
 
 .caixaImplant7::-webkit-scrollbar-thumb{
-    background-color: rgba(160, 0, 85, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant8{ 
-    background-color: #d2e4b6;
-    border: 1px solid #81d100;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -283,16 +283,16 @@ body{
 }
 
 .caixaImplant8 th{
-    background-color: #a9cf6b;
-    border: 1px solid #90cc30;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant8 td{
-    border-bottom: 1px solid #90cc30;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant8:hover{
-    box-shadow: 0 0 20px rgba(129, 209, 0, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant8::-webkit-scrollbar{
@@ -300,13 +300,13 @@ body{
 }
 
 .caixaImplant8::-webkit-scrollbar-thumb{
-    background-color: rgba(129, 209, 0, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant9{ 
-    background-color: #d6bcca;
-    border: 1px solid #a00055;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -318,16 +318,16 @@ body{
 }
 
 .caixaImplant9 th{
-    background-color: #cc7aa6;
-    border: 1px solid #ca428b;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant9 td{
-    border-bottom: 1px solid #ca428b;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant9:hover{
-    box-shadow: 0 0 20px rgba(160, 0, 85, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant9::-webkit-scrollbar{
@@ -335,13 +335,13 @@ body{
 }
 
 .caixaImplant9::-webkit-scrollbar-thumb{
-    background-color: rgba(160, 0, 85, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant10{ 
-    background-color: #cfbed1;
-    border: 1px solid #a100b3;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -353,16 +353,16 @@ body{
 }
 
 .caixaImplant10 th{
-    background-color: #d38ddb;
-    border: 1px solid #c24acf;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant10 td{
-    border-bottom: 1px solid #c24acf;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant10:hover{
-    box-shadow: 0 0 20px rgba(161, 0, 179, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant10::-webkit-scrollbar{
@@ -370,13 +370,13 @@ body{
 }
 
 .caixaImplant10::-webkit-scrollbar-thumb{
-    background-color: rgba(161, 0, 179, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant11{ 
-    background-color: #e4fce9;
-    border: 1px solid #8eaf95;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -388,16 +388,16 @@ body{
 }
 
 .caixaImplant11 th{
-    background-color: #c1dfc7;
-    border: 1px solid #85b18e;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant11 td{
-    border-bottom: 1px solid #85b18e;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant11:hover{
-    box-shadow: 0 0 20px rgba(142, 175, 149, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant11::-webkit-scrollbar{
@@ -405,13 +405,13 @@ body{
 }
 
 .caixaImplant11::-webkit-scrollbar-thumb{
-    background-color: rgba(142, 175, 149, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant12{ 
-    background-color: #d2e4b6;
-    border: 1px solid #81d100;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -423,16 +423,16 @@ body{
 }
 
 .caixaImplant12 th{
-    background-color: #a9cf6b;
-    border: 1px solid #90cc30;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant12 td{
-    border-bottom: 1px solid #90cc30;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant12:hover{
-    box-shadow: 0 0 20px rgba(129, 209, 0, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant12::-webkit-scrollbar{
@@ -440,13 +440,13 @@ body{
 }
 
 .caixaImplant12::-webkit-scrollbar-thumb{
-    background-color: rgba(129, 209, 0, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 
 .caixaImplant13{ 
-    background-color: #fff9c1;
-    border: 1px solid #ffe600;
+    background-color: #e3ffff;
+    border: 1px solid #7f9fc3;
     border-radius: 12px;
     min-height: 170px;
     max-height: 170px;
@@ -458,16 +458,16 @@ body{
 }
 
 .caixaImplant13 th{
-    background-color: #fff387;
-    border: 1px solid #ffeb3c;
+    background-color: #b1cfe1;
+    border: 1px solid #98b7d2;
 }
 
 .caixaImplant13 td{
-    border-bottom: 1px solid #ffeb3c;
+    border-bottom: 1px solid #98b7d2;
 }
 
 .caixaImplant13:hover{
-    box-shadow: 0 0 20px rgba(255, 230, 0, 1);
+    box-shadow: 0 0 20px rgba(127, 159, 195, 1);
 }
 
 .caixaImplant13::-webkit-scrollbar{
@@ -475,7 +475,7 @@ body{
 }
 
 .caixaImplant13::-webkit-scrollbar-thumb{
-    background-color: rgba(255, 230, 0, 0.5);
+    background-color: rgba(127, 159, 195, 0.5);
     border-radius: 12px;
 }
 

@@ -479,7 +479,7 @@ body{
     border-radius: 12px;
 }
 
-table{
+.caixaImplant table{
     width: 100%;
     border-radius: 12px;
     min-height: 150px;
@@ -487,7 +487,7 @@ table{
     padding: 0;
 }
 
-th{
+.caixaImplant th{
     text-align: center;
     padding: 5px;
     border-radius: 12px;
@@ -497,7 +497,7 @@ th{
     height: 20px;
 }
 
-td{
+.caixaImplant td{
     text-align: left;
     padding: 5px;
     display: flex;
@@ -505,7 +505,7 @@ td{
     height: 100%;
 }
 
-td:last-child{
+.caixaImplant td:last-child{
     border-bottom: none;
 }
 
